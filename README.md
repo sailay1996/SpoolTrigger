@@ -1,2 +1,3 @@
 # SpoolTrigger
-Weaponizing for privileged file writes bugs with windows problem reporting
+Weaponizing for privileged file writes bugs with PrintNotify Service
+
