@@ -1,0 +1,4 @@
+LIBRARY ms-win-core-apiquery-l1-1-0
+
+EXPORTS
+ApiSetQueryApiSetPresence PRIVATE
