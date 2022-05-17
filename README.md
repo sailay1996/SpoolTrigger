@@ -1,5 +1,5 @@
 # SpoolTrigger
-Weaponizing for privileged file writes bugs with PrintNotify Service
+Weaponizing for privileged file writes bugs with `PrintNotify` Service
 
 
 #### Short Description:
